@@ -25,7 +25,7 @@ export default {
             name: "Sofía Lorenzo",
             title: "Profesional en Gestión de Medios Digitales",
             desc: "20 años, Argentina",
-            linkedin: "https://www.linkedin.com/in/sofia-lorenzo-721345265/",
+            linkedin: "https://www.linkedin.com/in/soffialorenzo/",
             github: "https://github.com/sofiialorenzo"
         },
 
