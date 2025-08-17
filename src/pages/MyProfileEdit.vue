@@ -75,7 +75,7 @@ export default {
 
 <template>
     <section class="max-w-screen-xl mx-auto px-4 py-12 gap-12 overflow-hidden md:px-8">
-        <BaseHeading1>Editar mi Perfil</BaseHeading1>
+        <BaseHeading1>Editar mi perfil</BaseHeading1>
 
         <form 
             action="#"
@@ -173,7 +173,7 @@ export default {
                 <span class="font-medium">¡Purrfecto!</span> Tu perfil ha sido actualizado con éxito.
             </div>
 
-            <ButtonPrimary type="submit">Actualizar mi Perfil</ButtonPrimary>
+            <ButtonPrimary type="submit">Actualizar mi perfil</ButtonPrimary>
         </form>
     </section>
 </template>

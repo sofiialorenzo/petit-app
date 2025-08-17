@@ -55,7 +55,7 @@ export default {
 <template>
     <section class="max-w-screen-xl mx-auto px-4 py-12 gap-12 overflow-hidden md:px-8 md:flex">
         <article class='flex-none space-y-5 max-w-xl'>
-            <BaseHeading1>Crear una <span class="text-orange-dark">Cuenta</span></BaseHeading1>
+            <BaseHeading1>Crear una <span class="text-orange-dark">cuenta</span></BaseHeading1>
 
             <form 
                 action="#"

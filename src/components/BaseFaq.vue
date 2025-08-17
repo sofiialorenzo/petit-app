@@ -50,7 +50,9 @@ export default {
           <BaseHeading2>Preguntas <span class="text-orange-dark">más</span> frecuentes</BaseHeading2>
           <p class="text-gray-dark max-w-lg mx-auto text-lg">
             ¿Tienes una duda en específico? Puedes 
-            <router-link class="hover:underline">contactarnos</router-link>.
+            <router-link 
+            to="/nosotros#SeccionEquipo"
+            class="hover:underline">contactarnos</router-link>.
           </p>
         </div>
         <div class="mt-14 max-w-2xl mx-auto">

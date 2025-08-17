@@ -93,7 +93,7 @@ export default {
 
 <template>
         <section class="w-full mb-6 max-w-screen-xl mx-auto px-4 py-12 gap-12 overflow-hidden md:px-8">
-          <BaseHeading1 class="text-center mt-2 mb-8">Comentarios de la Publicación</BaseHeading1>
+          <BaseHeading1 class="text-center mt-2 mb-8">Comentarios de la publicación</BaseHeading1>
         <h2 class="sr-only">Publicación</h2>
 
         <div class="flex justify-center">

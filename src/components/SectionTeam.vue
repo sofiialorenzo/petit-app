@@ -5,9 +5,17 @@ export default {
     return {
       team: [
         {
+            avatar: "/img/about/foto-perfil-sofi.jpg",
+            name: "Sofía Lorenzo",
+            title: "Técnica Superior en Diseño y Programación Web",
+            desc: "20 años, Argentina",
+            linkedin: "https://www.linkedin.com/in/soffialorenzo/",
+            github: "https://github.com/sofiialorenzo"
+        },
+        {
             avatar: "/img/about/foto-perfil-mari.jpg",
             name: "Marisol Rossow",
-            title: "Técnica en Programación Web",
+            title: "Técnica Superior en Diseño y Programación Web",
             desc: "21 años, Argentina.",
             linkedin: "https://www.linkedin.com/in/rossow-marisol/",
             github: "https://github.com/marisolrossow1"
@@ -15,18 +23,10 @@ export default {
         {
             avatar: "/img/about/foto-perfil-mel.png",
             name: "Melina Ailen Ortiz",
-            title: "Profesional en Gestión de Medios Digitales",
+            title: "Técnica Superior en Diseño y Programación Web",
             desc: "22 años, Argentina.",
             linkedin: "https://www.linkedin.com/in/melina-ailen-ortiz/",
             github: "https://github.com/melinel1"
-        },
-        {
-            avatar: "/img/about/foto-perfil-sofi.jpg",
-            name: "Sofía Lorenzo",
-            title: "Profesional en Gestión de Medios Digitales",
-            desc: "20 años, Argentina",
-            linkedin: "https://www.linkedin.com/in/soffialorenzo/",
-            github: "https://github.com/sofiialorenzo"
         },
 
       ]
@@ -40,13 +40,13 @@ export default {
     <div class="max-w-screen-xl mx-auto px-4 md:px-8">
     <div class="max-w-xl">
         <h2 class="text-gray-800 text-3xl font-semibold sm:text-4xl">
-        Conoce a nuestro equipo de <span class="text-indigo-800">técnicas</span> y <span class="text-orange-dark">profesionales</span>.
+        Conoce a nuestro equipo <br>de <span class="text-indigo-800">técnicas</span> y <span class="text-orange-dark">profesionales</span>.
         </h2>
     </div>
     <div class="mt-12">
         <ul class="grid gap-8 sm:grid-cols-2 md:grid-cols-3">
         <li v-for="(item, idx) in team" :key="idx">
-            <div class="w-full h-60 sm:h-52 md:h-56">
+            <div class="aspect-square sm:h-52 md:h-56">
             <img :src="item.avatar" class="w-full h-full object-cover object-center shadow-md rounded-xl" alt="">
             </div>
             <div class="mt-4">

@@ -85,7 +85,7 @@ export default {
     class="max-w-screen-xl mx-auto px-4 py-12 gap-12 overflow-hidden md:px-8"
   >
     <header class="flex flex-wrap items-center justify-between mt-2 mb-8">
-      <BaseHeading1>Mi Perfil</BaseHeading1>
+      <BaseHeading1>Mi perfil</BaseHeading1>
       <CustomRouterLink
         :to="'/mi-perfil/editar'"
         class="mt-2 sm:mt-0 px-8 py-2 font-medium text-lg bg-purple-light duration-150 hover:text-purple-dark hover:bg-purple-light/75 active:bg-purple-secondary active:text-white"
@@ -160,7 +160,7 @@ export default {
     </section>
 
     <section class="my-12 ">
-      <BaseHeading2>Mis Publicaciones</BaseHeading2>
+      <BaseHeading2>Mis publicaciones</BaseHeading2>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 mt-10">
         <CardPost v-for="post in posts" :key="post.id" :post="post" :getDateAndTime="getDateAndTime">
           <template v-slot:action>

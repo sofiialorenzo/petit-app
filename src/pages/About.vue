@@ -26,8 +26,8 @@ export default {
 <template>
     <section class="max-w-screen-xl mx-auto px-4 py-28 gap-12 overflow-hidden md:px-8 md:flex">
               <article class='flex-none space-y-5 max-w-xl'>
-                  <h1 class="text-4xl font-extrabold sm:text-5xl capitalize text-pretty">
-                      Sobre <span class="text-purple-primary">nosotros</span> y <span class="text-orange-dark">Soporte</span>
+                  <h1 class="text-4xl font-extrabold sm:text-5xl text-pretty">
+                      Sobre <span class="text-purple-primary">nosotros</span> y <span class="text-orange-dark">soporte</span>
                   </h1>
                   <p class="text-gray-dark">
                       Mantener una <strong>continua comunicación con nuestros usuarios</strong> es de suma importancia, por lo que siéntete libre con contactar con nuestro equipo.

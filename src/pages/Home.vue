@@ -13,8 +13,8 @@ export default {
 <template>
     <section class="max-w-screen-xl mx-auto px-4 py-28 gap-12 overflow-hidden md:px-8 md:flex">
               <article class='flex-none space-y-5 max-w-xl'>
-                  <h1 class="text-4xl font-extrabold sm:text-5xl capitalize text-pretty">
-                      La red social <span class="text-purple-primary">para vos</span> y <span class="text-orange-dark">tu mascota</span>
+                  <h1 class="text-4xl font-extrabold sm:text-5xl text-pretty">
+                      La red social <span class="text-purple-primary">para vos<br></span> y <span class="text-orange-dark">tu mascota</span>
                   </h1>
                   <p class="text-gray-dark">
                       Una de las redes sociales para mascotas <strong>número uno en Argentina</strong>, crea el perfil tuyo junto al de tu mascota, personaliza, postea sobre tu compañero e interactúa junto a otros amantes de las mascotas. 
