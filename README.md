@@ -48,10 +48,10 @@ Este proyecto me permitió profundizar en:
 
 ## Autoras 👩‍💻
 **Sofía Lorenzo**
--LinkedIn: [soffialorenzo](https://www.linkedin.com/in/soffialorenzo/)
--Behance: [soffialorenzo](https://www.behance.net/soffialorenzo)
+- LinkedIn: [soffialorenzo](https://www.linkedin.com/in/soffialorenzo/)
+- Behance: [soffialorenzo](https://www.behance.net/soffialorenzo)
 **Marisol Rossow**
--LinkedIn: [rossow-marisol](https://www.linkedin.com/in/rossow-marisol/)
+- LinkedIn: [rossow-marisol](https://www.linkedin.com/in/rossow-marisol/)
 **Melina Ailen Ortiz**
--LinkedIn: [melina-ailen-ortiz](https://www.linkedin.com/in/melina-ailen-ortiz/)
+- LinkedIn: [melina-ailen-ortiz](https://www.linkedin.com/in/melina-ailen-ortiz/)
 
