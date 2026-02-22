@@ -1,8 +1,8 @@
-#Petit App 🐾
+# Petit App 🐾
 Red social para mascotas, donde los dueños pueden crear perfiles de sus animales, compartir fotos
 y conectar con otros amantes de las mascotas.
 
-##Demo 🚀
+## Demo 🚀
 [Ver Proyecto deployado](https://petit-app.netlify.app/#/)
 
 ##Características principales ✨
@@ -12,7 +12,7 @@ y conectar con otros amantes de las mascotas.
 - Autenticación: Sistema de registro y login de usuarios.
 - Responsive: Diseño adaptado a dispositivos móviles y escritorio.
 
-##Tecnologías utilizadas 🛠️
+## Tecnologías utilizadas 🛠️
 - Vue.js - Framework progresivo de Javascript
 - Firebase
   - Authentication (autenticación de usuarios)
@@ -21,7 +21,7 @@ y conectar con otros amantes de las mascotas.
 - Tailwind - Estilos y diseño responsive
 - Netlify - Deployment y hosting
 
-##Instalación y uso local 📦
+## Instalación y uso local 📦
 ```bash
 # Clonar el repositorio
 git clone https://github.com/sofiialorenzo/petit-app.git
@@ -46,7 +46,7 @@ Este proyecto me permitió profundizar en:
 - Implementación de chat en tiempo real
 - Upload y optimización de imágenes
 
-##Autoras 👩‍💻
+## Autoras 👩‍💻
 **Sofía Lorenzo**
 -LinkedIn: [soffialorenzo](https://www.linkedin.com/in/soffialorenzo/)
 -Behance: [soffialorenzo](https://www.behance.net/soffialorenzo)
